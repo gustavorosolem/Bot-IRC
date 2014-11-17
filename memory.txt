@@ -1,0 +1,8 @@
+$VAR1 = {
+          'Novinha' => 'fdp!',
+          'Loja Integrada' => 'a menina dos olhos da Vtex',
+          'William[LI]' => 'Mussum',
+          'tv' => 'o orgulho da vtex',
+          'se alguem remover o .git/index ao inves do .git/index.lock o comando que deve dar' => 'cara, burro! só dar: o git reset',
+          'Rio de Janeiro' => 'a Cidade Maravilhosa'
+        };
